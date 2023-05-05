@@ -18,13 +18,11 @@
 </a>
 
 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
-    " alt="SQLServer" width="70" height="40"/>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQLServer" width="70" height="40"/>
 </a> 
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
-    " alt="Visual Studio Code" width="70" height="40"/>
+    <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" width="70" height="40"/>
 </a>
 
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer">
