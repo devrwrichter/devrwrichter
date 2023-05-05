@@ -50,13 +50,14 @@
 
     <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" width="70" height="40"/>
-    </a>    
-</a>   
+    </a>   
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
 
-</a> <a href="https://www.rancher.com/" target=_blank" rel"noreferrer"> <img alt="rancher" height="40" width="40" src="https://rancher.com/docs/img/logo-square.png"> 
+<a href="https://www.rancher.com/" target=_blank" rel"noreferrer">
+                                                                 <img alt="rancher" height="40" width="40" src="https://rancher.com/docs/img/logo-square.png"> 
 </a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
