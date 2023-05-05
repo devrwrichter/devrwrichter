@@ -26,13 +26,11 @@
 </a>
 
 <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white
-    " alt="Visual Studio" width="70" height="40"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" width="70" height="40"/>
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
-    " alt="Typescript" width="70" height="40"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" width="70" height="40"/>
 </a>
 
 
