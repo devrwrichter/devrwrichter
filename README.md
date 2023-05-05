@@ -53,17 +53,21 @@
 </a>   
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.rancher.com/" target=_blank" rel"noreferrer">
-   <img alt="rancher" height="40" width="40" src="https://rancher.com/docs/img/logo-square.png"/> 
+</a> <a href="https://www.rancher.com/" target=_blank" rel="noreferrer"> <img alt="rancher" height="40" width="40" src="https://rancher.com/docs/img/logo-square.png"> 
 </a>
                                                                                                
-<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-
+<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> 
+</a>
+                                                                                                                             
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+</a>
 </div>
+                                                                                                                     
 <div>
 <h3 align="left">Cloud:</h3>
 </a> <a href="https://www.aws.amazon.com" target=_blank" rel"noreferrer"> <img alt="aws" height="40" width="40" src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_stacked_REV_SQ.91cd4af40773cbfbd15577a3c2b8a346fe3e8fa2.png">
