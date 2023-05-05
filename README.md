@@ -56,7 +56,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> 
 </a> 
 
-</a> <a href="https://www.rancher.com/" target=_blank" rel="noreferrer"> <img alt="rancher" height="40" width="40" src="https://rancher.com/docs/img/logo-square.png"> 
+</a> <a href="https://www.rancher.com/" target="_blank" rel="noreferrer"> <img alt="rancher" height="40" width="40" src="https://rancher.com/docs/img/logo-square.png"> 
 </a>
                                                                                                
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
